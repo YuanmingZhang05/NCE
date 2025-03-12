@@ -1,3 +1,4 @@
+Paper accepted by ICDE 2024
 # Acceleration with SIMD Instruction
 In the following, we introduce how to accelerate sketch recursive aggregation.
 The sketch aggregation process consists of intensive yet simple comparison operations between GC sketches from each node's neighborhood.
